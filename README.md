@@ -7,5 +7,5 @@ Both versions uses tokenizing, and builds a vocabulary dictionary sorted by word
 
 in verstion 0.2 a TurkishStemmer library was tried but it added nothing to the overall accuracy. (Probably because The library sometimes produces unreliable results)
 
-##TODO:
+## TODO:
 Handling stop words and using a proper stemmer.
